@@ -2,8 +2,6 @@ Practica 2 Copyright (C) 2013 María Victoria Santiago Alcalá. This program is 
 
 ## Sudoku_Backtracking
 
-  This is a backtracking program in Java to solve Sudoku problem
-
 #### El directorio "Sudoku_Backtracking" se encuentra estructurado de la siguiente forma:
 
 	- codigo : directorio que contiene el fichero 
